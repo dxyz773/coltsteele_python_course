@@ -5,7 +5,10 @@
 1. Data types & Fundamentals
 2. Functions
 3. Decorators
-4. Iterators & Generators
-5. Object Oriented Programming, Inheritance & Multiple Inheritance
-6. Working with Files
-7. ...
+4. Functions
+5. Iterators & Generators
+6. Object Oriented Programming, Inheritance & Multiple Inheritance
+7. Unit testing
+8. File I/O, CSV
+9. Basics of web scraping: Beautiful Soup, Scrapy
+10. Regex

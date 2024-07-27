@@ -11,4 +11,4 @@
 7. Unit testing
 8. File I/O, CSV
 9. Basics of web scraping: Beautiful Soup, Scrapy
-10. Regex
+10. Basics of Regex in Python
